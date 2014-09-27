@@ -4,17 +4,19 @@ The KiXtart application is best suitable for web developers who develop web proj
 
 To run the application, you will need a Windows computer and a .NET framework 2.0 and above since KiXtart was develop on Visual Basic.NET (VB.NET) and a lot of the components included in the app relies in the said application framework. 
 
-Changelogs
-KiXtart 0.20 Beta
--initial release
--KiXtart 0.20 Beta currently uses:
+Changelogs 
+Ver: KiXtart 0.20 Beta
 
-1. HTML5Boilerplate - 4.3.0
+	-initial release
 
-2. Twitter Bootstrap - 3.2.0
+	-KiXtart 0.20 Beta currently uses:
 
-3. jQuery - 1.11.0
+	1. HTML5Boilerplate - 4.3.0
 
--option to change location or CDN in jQuery (more CDN's will be putted in the next version.)
+	2. Twitter Bootstrap - 3.2.0
+
+	3. jQuery - 1.11.0
+
+	-option to change location or CDN in jQuery (more CDN's will be putted in the next version.)
 
 Application note: Note that KiXtart is not an alternative to Initializr.
