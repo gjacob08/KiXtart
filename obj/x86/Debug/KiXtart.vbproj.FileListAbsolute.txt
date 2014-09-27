@@ -7,3 +7,4 @@ C:\Users\MAM AGOT\Documents\GitHub\KiXtart\obj\x86\Debug\KiXtart.vbproj.Generate
 C:\Users\MAM AGOT\Documents\GitHub\KiXtart\obj\x86\Debug\KiXtart.exe
 C:\Users\MAM AGOT\Documents\GitHub\KiXtart\obj\x86\Debug\KiXtart.xml
 C:\Users\MAM AGOT\Documents\GitHub\KiXtart\obj\x86\Debug\KiXtart.pdb
+C:\Users\MAM AGOT\Documents\GitHub\KiXtart\obj\x86\Debug\KiXtart.AboutBox1.resources

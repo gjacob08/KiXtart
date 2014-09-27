@@ -4,16 +4,4 @@
         versionLabel.Parent = SplashBox
         versionLabel.BackColor = Color.FromArgb(128, 0, 0, 0)
     End Sub
-
-    Private Sub ToolStripStatusLabel1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-
-    End Sub
-
-    Private Sub ToolStripStatusLabel4_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
-
-    End Sub
-
-    Private Sub settingskixButton_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles settingskixButton.Click
-
-    End Sub
 End Class
