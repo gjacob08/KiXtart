@@ -5,11 +5,13 @@ The KiXtart application is best suitable for web developers who develop web proj
 To run the application, you will need a Windows computer and a .NET framework 2.0 and above since KiXtart was develop on Visual Basic.NET (VB.NET) and a lot of the components included in the app relies in the said application framework. 
 
 Changelogs 
+
 Ver: KiXtart 0.20 Beta
 
 	-initial release
 
 	-KiXtart 0.20 Beta currently uses:
+	
 		1. HTML5Boilerplate - 4.3.0
 
 		2. Twitter Bootstrap - 3.2.0
