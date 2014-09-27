@@ -44,11 +44,9 @@ Partial Class aboutkixForm
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.Location = New System.Drawing.Point(12, 119)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(402, 85)
+        Me.Label2.Size = New System.Drawing.Size(402, 187)
         Me.Label2.TabIndex = 4
-        Me.Label2.Text = "KiXtart is an Initializr-inspired Windows application by " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Ned Palacios. (http://" & _
-            "github.com/nedpals)" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "KiXtart is securely hosted at Github." & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "(http://github.com" & _
-            "/nedpals/kixtart)"
+        Me.Label2.Text = resources.GetString("Label2.Text")
         '
         'aboutkixForm
         '

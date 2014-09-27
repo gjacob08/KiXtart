@@ -293,4 +293,17 @@
         QmCC
 </value>
   </data>
+  <data name="Label2.Text" xml:space="preserve">
+    <value>KiXtart is an Initializr-inspired Windows application by 
+Ned Palacios. (http://github.com/nedpals)
+
+KiXtart is securely hosted at Github.
+(http://github.com/nedpals/kixtart)
+
+Inspirations:
+
+Initialzr.com
+Mom and dad
+My friends</value>
+  </data>
 </root>
