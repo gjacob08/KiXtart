@@ -8,11 +8,13 @@ Changelogs
 KiXtart 0.20 Beta
 -initial release
 -KiXtart 0.20 Beta currently uses:
+
 1. HTML5Boilerplate - 4.3.0
+
 2. Twitter Bootstrap - 3.2.0
+
 3. jQuery - 1.11.0
+
 -option to change location or CDN in jQuery (more CDN's will be putted in the next version.)
 
-Application note:
-
-Note that KiXtart is not an alternative to Initializr.
+Application note: Note that KiXtart is not an alternative to Initializr.
