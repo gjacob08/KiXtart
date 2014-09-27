@@ -1,0 +1,9 @@
+C:\Users\MAM AGOT\Documents\GitHub\KiXtart\bin\Debug\KiXtart.exe
+C:\Users\MAM AGOT\Documents\GitHub\KiXtart\bin\Debug\KiXtart.pdb
+C:\Users\MAM AGOT\Documents\GitHub\KiXtart\bin\Debug\KiXtart.xml
+C:\Users\MAM AGOT\Documents\GitHub\KiXtart\obj\x86\Debug\KiXtart.MainWindow.resources
+C:\Users\MAM AGOT\Documents\GitHub\KiXtart\obj\x86\Debug\KiXtart.Resources.resources
+C:\Users\MAM AGOT\Documents\GitHub\KiXtart\obj\x86\Debug\KiXtart.vbproj.GenerateResource.Cache
+C:\Users\MAM AGOT\Documents\GitHub\KiXtart\obj\x86\Debug\KiXtart.exe
+C:\Users\MAM AGOT\Documents\GitHub\KiXtart\obj\x86\Debug\KiXtart.xml
+C:\Users\MAM AGOT\Documents\GitHub\KiXtart\obj\x86\Debug\KiXtart.pdb
